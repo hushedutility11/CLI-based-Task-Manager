@@ -3,7 +3,7 @@
 A simple command-line task manager built with Node.js. Add, list, and delete tasks easily, with data saved to a JSON file for persistence.
 
 ## How to Run
-1. git clone https://github.com/YOUR_GITHUB_USERNAME/task-manager-cli.git
+1. git clone https://github.com/hushedutility11/task-manager-cli.git
 2. Navigate to the folder and run: node taskManager.js
 3. Follow the prompts to manage your tasks!
 
